@@ -64,4 +64,4 @@ The reason that there are no /reducers or /actions directories in the **CRUV str
 But what if you do use Redux? Or MobX? Or Govern? In that case, recommendation is that you add a **/store** directory, and put all your store related code in there. Stores hold global state that isn’t tied to a specific component, so they generally shouldn’t be very large.
 
 
-# **James K Nelson article**
+ **James K Nelson article**
